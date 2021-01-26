@@ -18,6 +18,8 @@ Tools used:
 5. AWS Elastic Beanstalk
 6. AWS API Gateway 
 
+Note: Junit and integration tests skipped.
+
 API documentation is done using Open API Spec.
 
 Swagger UI Endpoint for Customer API: http://localhost:5000/swagger-ui.html
